@@ -37,25 +37,3 @@ summary(resultado)
 summary(resultado)$solution
 
 plot(resultado)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
